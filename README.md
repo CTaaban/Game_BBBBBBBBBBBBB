@@ -5,12 +5,13 @@ Together with five other students, we designed a game to conclude the Minor: Sof
 
 <img align="center" src="Images/Game.png" width="1000">
 
-<img align="center" src="Images/Game_1.png" width="400"> <img align="center" src="Images/Game_4.png" width="400">
+<img align="center" src="Images/Game_1.png" width="1000"> 
 
-<img align="center" src="Images/Game_5.png" width="400">
-<img align="center" src="Images/Game_6.png" width="400">
-<img align="center" src="Images/Game_7.png" width="400">
-<img align="center" src="Images/Game_8.png" width="400">
+<img align="center" src="Images/Game_8.png" width="1000">
+
+<img align="center" src="Images/Game_4.png" width="400"><img align="center" src="Images/Game_5.png" width="400">
+<img align="center" src="Images/Game_6.png" width="400"><img align="center" src="Images/Game_7.png" width="400">
+<img align="center" src="Images/Game_2.png" width="400"><img align="center" src="Images/Game_3.png" width="400">
 
  <!---
 Time-lapse of development of the game: 
