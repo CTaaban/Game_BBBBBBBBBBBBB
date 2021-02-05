@@ -4,6 +4,5 @@ Building a Game from Scratch
 Together with five other students, we designed a game to conclude the Minor: Software Design & Application. All of us did not have any experience of creating a game beforehand, but during the minor we gathered the basic object-oriented programming skills to do so.
 
 Time-lapse of development of the game: 
-![KH](GameTimeLapse.mp4)
+![KH](Images/GameTimeLapse.mp4)
 
-<img src="Images/GameTimeLapse.mp4" width="800">
