@@ -5,6 +5,7 @@ Together with five other students, we designed a game to conclude the Minor: Sof
 
 <img src="Images/Game.png" width="1000">
 
-!Time-lapse of development of the game: 
+ <!---
+Time-lapse of development of the game: 
 !<img src="Images/GameTimeLapse.mp4" width="800">
-
+-->
