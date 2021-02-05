@@ -6,3 +6,4 @@ Together with five other students, we designed a game to conclude the Minor: Sof
 Time-lapse of development of the game: 
 ![KH](GameTimeLapse.mp4)
 
+<img src="Images/GameTimeLapse.mp4" width="800">
